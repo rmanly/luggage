@@ -8,6 +8,11 @@ Advantages:
 You can get peer review of a package by examining the diffs between versions
 of your Makefile. No more wading through a zillion annoying GUI panes.
 
+Installation:
+1. Clone this repo
+2. $ cd /path/to/luggage
+3. $ make bootstrap_files
+
 Full documentation can be found at http://wiki.github.com/unixorn/luggage/
 
 Example packages can be found at https://github.com/unixorn/luggage-examples
